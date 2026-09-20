@@ -5,7 +5,7 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · areebiqbal6</sub></p>
 <h1>Areeb Iqbal</h1>
-<h2>Frontend or full-stack engineer</h2>
+<h2>FULL STACK AND AI/ML ENGINEER</h2>
 <p>Photographer | Writer 
 20
 🇵🇰</p>
